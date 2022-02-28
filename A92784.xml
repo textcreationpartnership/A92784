@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Search after knavery, or, A visitation of the bakers. Who have we here, the jolly oven-rakers? ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92784</idno>
+            <idno type="STC">Wing S2202A</idno>
+            <idno type="STC">ESTC R183653</idno>
+            <idno type="EEBO-CITATION">45097942</idno>
+            <idno type="OCLC">ocm 45097942</idno>
+            <idno type="VID">171517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171517)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Search after knavery, or, A visitation of the bakers. Who have we here, the jolly oven-rakers? ...</title>
+               </titleStmt>
+               <extent>4 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Pinch-gut, in Thieving-Lane.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Forster Collection, Victoria and Albert Museum.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bakers and bakeries --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171517:1" rendition="simple:additions"/>
+            <head>
+               <hi>A Search after Knavery,</hi> OR, A Viſitation of the BAKERS.</head>
+            <lg>
+               <l>Who have we here, the jolly Oven-Rakers?</l>
+               <l>Oh ho! thoſe worthy Gentlemen, the <hi>Bakers.</hi>
+               </l>
+               <l>Thro' theſe fair Caſements of their Oaken Houſe,</l>
+               <l>Behold the Fronts of Braſs and Lugs of Sowſe;</l>
+               <l>But is this the whole top of their prefermen',</l>
+               <l>To wear this Ruff of Wood inſtead of Ermin?</l>
+               <l>No, their Deſerts t'a nobler Perch aſpire,</l>
+               <l>And hope to mount one Ladders Round yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> higher,</l>
+               <l>Whilſt the laſt Collar that their Necks ſhall grace,</l>
+               <l>Shall be the Honour of a fair Hemp-Lace.</l>
+            </lg>
+            <figure>
+               <figDesc>depiction of two people in a pillory surrounded by a crowd</figDesc>
+            </figure>
+            <p>THE fair Effigies of this Honourable <hi>Wooden Ruff</hi> we here preſent you, otherwiſe ſcandalouſly call'd a <hi>Pillory,</hi> we aſſure you, is no uncuſtomary Orna<g ref="char:EOLhyphen"/>ment and Exaltation of the Brothers of the <hi>Mawkin</hi> and <hi>Oven-Pole,</hi> but a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Implement in all Reſpects as fit fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Necks of the Baking Fraternity, as a Halter for a Thief, or a Car<g ref="char:EOLhyphen"/>dinals Cap for a Fryar; being in<g ref="char:EOLhyphen"/>deed the only Collar of <hi>SS's</hi> for the
+<pb n="2" facs="tcp:171517:2"/>
+Livery-Hood of the Modern Society of Month founders. That this hard Ruff, I ſay, and this high Holy Day Promo<g ref="char:EOLhyphen"/>tion are their Original Right and Due, challenged not only by their Diverſe and Sundry Deſerts and Merits; but likewiſe moſt graciouſly conferred upon them, as no leſs than Marks of Royal Favour; they are indeed the bountiful Legacies bequeathed 'em by no meaner Hands than good old <hi>Harry</hi> and old <hi>Ned</hi> the Third and the Firſt, in the full and ample Solemnity, by and with the Authority of their Dons in <hi>Parliament,</hi> as a neceſſary Proviſion in fair Statutes and Records for thoſe worthy <hi>Poor gut-pinchers,</hi> the <hi>light-handed</hi> Gentlemen <hi>Bakers.</hi>
+            </p>
+            <p>
+               <hi>Weight</hi> and <hi>Meaſure</hi> would travel through the World, were it not for many a ſhort-come home they meet from thoſe Gentlemen's nimble Hands: For as much as White and Yellow Boys are their little Gods, Braſs and Lead are their natural Antipathy and Averſion, inſomuch that they can prune ye the Ex<g ref="char:EOLhyphen"/>creſcence of an over-grown <hi>Pound</hi> as heartily, and with as much Dexterity, as the abl'ſt Round-the-Tower Artiſt of 'em all e're took off the Letchery of a fair <hi>George</hi> or a broad <hi>Elzabeth.</hi> For gene<g ref="char:EOLhyphen"/>rally, as well read Men as they are in other Sciences, in their Geographical Learning they are damnable apt to mi<g ref="char:EOLhyphen"/>ſtake <hi>Venice</hi> for <hi>Troy.</hi>
+            </p>
+            <p>Well, upon due Examination, who knows but the High and Mighty <hi>Balſha<g ref="char:EOLhyphen"/>zar</hi>'s Hand Writing-Vition on the Wall, might be ſome Conjuring Bakers Hiero<g ref="char:EOLhyphen"/>glyphical Magick; and his great <hi>[Mene, Tekel,]</hi> no more than the <hi>Mark</hi> of their <hi>Bread, viz.</hi> by Interpretation, as the Text ſays, <hi>Thou art weighed in the Bal<g ref="char:EOLhyphen"/>lance and found too Light.</hi> Perhaps you'll ſay, That <hi>Weight</hi> and <hi>Meaſure</hi> are the old Standards of the Nation: And ſo our old Proverbs are our old Standards too: And how bold ſoever they make with the Firſt, I am ſure, they are very civil to the Laſt, for, <hi>They meaſure our Corn by their Buſhel.</hi> And let Envy and Malice ſay what they can of 'em, I dare ſo far vouch for their Honeſty, that they have no <hi>Knavery</hi> but in <hi>Grain:</hi> But what if they do make a little pinch-Weight, or ſo? There's a great many Human Frailties in this World, for which ſome particular Favourites plead the Warrant and Licence of a <hi>Cum Pri<g ref="char:EOLhyphen"/>vilegio:</hi> For inſtance, to Lye and to Steal are very paw Things, yet a Tra<g ref="char:EOLhyphen"/>veller may be a Liar and a Miller a Thief, by Authority. A Miller, did I ſay, ay and pray my Maſters, let the Baker put in for the Miller's Cozen German; both Brothers in Grain: And indeed I think it but Juſtice that they ſhould take equal Liberty of Conſcience, and the Kneading-Trough have as fair Play as the Toll-diſh. Nay, here's one nearer Affinity ſtill betwixt the Myſtery and Occupation of the Miller and Baker, <hi>viz.</hi> That both their Trades are but <hi>Grinding-Work;</hi> one that Grinds the <hi>Corn</hi> and the other the <hi>Poor.</hi> Beſides, if they do make a little bold by the way of ſhort cut, or ſo forth, e'ne much good may't do 'em. They have this Ju<g ref="char:EOLhyphen"/>ſtification on their Side, That the Baker only takes the Butlers Fee; a few Chippings, that's all; bar that the But<g ref="char:EOLhyphen"/>ler chips it in the Bread, and the Baker by the way of good Husbandry, is a little before-hand with it, and chips it in the Dough. Nay, let all the Snarlers in the Town vent their ridiculous Spight
+<pb n="3" facs="tcp:171517:2"/>
+and Out-cry againſt ſmall Weights and ſhallow Meaſures, and the reſt of their fooliſh Gibberiſh; when we have this unanſwerable Vindication of our Cauſe: For as 'tis notoriouſly known, by a Long Old Cuſtom, Time out of Mind, That the Baker is obliged to ſell Two Mea<g ref="char:EOLhyphen"/>sures of his Bran for One, where's the Fault if he makes himſelf a little harm<g ref="char:EOLhyphen"/>leſs Reprizal, by Selling of One Mea<g ref="char:EOLhyphen"/>ſure of his Flower for Two?</p>
+            <p>In ſhort, to do the Baker Juſtice, and refute all the Vulgar Errors of Popular Clamours and Calumny, he ſets up and values himſelf for that extraordinary Man of Morals, being indeed the True Copy from no meaner an Original than the quondam famous <hi>Phariſees,</hi> and ſea<g ref="char:EOLhyphen"/>ſon'd with no leſs than their illuſtrious <hi>Leven</hi> of never-ſleeping Memory.</p>
+            <p>Nay, my good Maſters, let grinning Fools talk what they pleaſe, I ſay again and again, That the Baker is not only a Man of Morals but of <hi>Religion</hi> too, <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> let me tell you, enough to ſet up for a <hi>Diſciple,</hi> even one of the Twelve, as no leſs than the Rightful and Lineal Succeſſor of the Great and Memorable <hi>Iſcariot,</hi> that carryed the <hi>Purſe</hi> and the <hi>Curſe;</hi> only with this ſmall Difference between 'em, his Office was to buy in the Bread, and the Baker's, juſt ſuch another truſty Steward, is to ſell the Bread.</p>
+            <p>Nay, I can aſſure you, Religion is not the only Blazon in their Scutcheon; for, if poſſible, they have one High Top and top gallant more, <hi>Renown</hi> and <hi>Glory;</hi> for the Bakers boaſt the Ho<g ref="char:EOLhyphen"/>nour of being oftner viſited by the <hi>Great Horſe</hi> and <hi>Gold Chain</hi> than the whole Twelve <hi>Companies.</hi> The <hi>Lord Mayor's Prancer</hi> moves as orderly, and ſo naturally to the <hi>Baker's Shop,</hi> that his Lordſhip may e'ne lay the Reins up<g ref="char:EOLhyphen"/>on his Neck, and truſt him to find his own Way thither: And there the proud Baker, at this Illuſtrious Viſitation very rarely fails of that infallible Triumph, <hi>viz.</hi> of doaling out his Favours by whole Baskets-full; and as no ſmall Feather in his Cap, has the Prayers of the whole Colledges of <hi>Newgate, Wood<g ref="char:EOLhyphen"/>ſtreet, Poultry,</hi> &amp;c. as a moſt generous Patron and Benefactor of thoſe hungry Foundations.</p>
+            <p>Nay, to illuſtrate their whole Maſs of Glory, perhaps their <hi>Ingenuity</hi> is not the leaſt conſpicuous of their numerous Virtues and Faculties: For example, What think you of ſome Hundreds of <hi>Chalk-Whiting,</hi> by a genteel Legerde<g ref="char:EOLhyphen"/>main, Shuffled in for Tincturing their Flower. Can any thing be a deeper Philoſophical Preparation, or a more Noble Piece of Art! For what are our poor mortal Frames but ſo many Tene<g ref="char:EOLhyphen"/>ments of Clay, and conſequently (thanks be to the kind Baker) what ſo proper as White-waſh and Loomwork, for our inſide Decoration? Beſides, is it not highly reaſonable, that as Bread and Wine are the Fundamentals of the whole Creation, ſo the Vintner and Baker ſhould concert their Operations; and therefore, as Lime is ſo famous an Ingredient for Wine brewing, why not <hi>Chalk</hi> for Bread-baking?</p>
+            <p>Nay, here's Twenty other Conveni<g ref="char:EOLhyphen"/>ences more: For, Firſt, if the People are aggrieved at the ſmallneſs of the Bread, what can be a properer Medicine than Chalk againſt <hi>Heart-burning;</hi> and conſequently (<hi>Probatum est</hi>) what a more agreeable Bread Compound than <hi>Whiting?</hi> Next, what is more natu<g ref="char:EOLhyphen"/>rally
+<pb n="4" facs="tcp:171517:3"/>
+               <hi>Coſtive</hi> than Chalk; and therefore conſidering how dear Bread is, to make a little Mony to go the farther, what can be honeſter than for the Baker to cater ſuch Provant for our Stomachs as will ſtay longeſt with us? And, Third<g ref="char:EOLhyphen"/>ly, here's a whole National Benefit, in this ingenious <hi>Chalk-bread,</hi> of indulg<g ref="char:EOLhyphen"/>ing all the Green ſickneſs-Girls in the Town, without giving them the Trou<g ref="char:EOLhyphen"/>ble of ſcraping of Walls for their Breakfaſt? And by this laſt Expedient, how many People are here obliged at once: Firſt, all the Landlords, by ſecur<g ref="char:EOLhyphen"/>ing their Tenements from the daily Breaches made in their Walls by thoſe fair Hands, for the aforeſaid Green Sickly, Puling Dainties. And, Se<g ref="char:EOLhyphen"/>condly, here's all the Batchelors moſt highly indebted to them for making 'em ſuch pleaſant Doctors-Work in the Ad<g ref="char:EOLhyphen"/>miniſtration of the neceſſary Phyſick for the Cure of that Maiden Diſtem<g ref="char:EOLhyphen"/>per.</p>
+            <p>And, as a farther Sample of the Wit and Depths of theſe <hi>Virtuoſo's,</hi> what notabler Ingenuity than the late modern Invention of <hi>Turnip-Bread?</hi> How ma<g ref="char:EOLhyphen"/>ny round about Sea-Voyages, up to <hi>Bear-Key,</hi> and as many Freſh-Water down-Tides to <hi>Queen-bithe</hi> are here ſaved by a ſhort Cut of Hai-Gee-Whoe from <hi>Hackney,</hi> to borrow the kind Help of a <hi>Turnip-Cart,</hi> to eke out the ſhort<g ref="char:EOLhyphen"/>neſs of the <hi>Cornſack?</hi> a ſecond <hi>Meal-Tub-Plot!</hi> and worthy the Head-piece of ſuch doughty Projecters! Beſides, when their Noble Exploits and Chivalry ſhall all in good Time advance them to their enchanted Caſtles, the <hi>Wooden Ruff</hi>-Preferment above-named, nothing ſo pat for the neceſſary Furniture of that Cavalcade, for if the Hegler's Bas<g ref="char:EOLhyphen"/>kets can but ſupply Rotten Eggs, they have Turnip-Tops of their own, juſt ready at Home, for their additional Salutation and Entertainment: For which Poſt of Honour, their expected Deſert and Reward, we leave 'em to their due Congratulation, where we heartily deſire they may meet all the beſt Reception imaginable in full Weight and Meaſure, and loſe nothing but a little ſpare Leather they leave behind them.</p>
+            <lg>
+               <l>But, bold, my Bread-Batch Members of the City,</l>
+               <l>Ere we ſhake Hands, accept this Farewel Ditty;</l>
+               <l>How can our Muſe, alas, forbear to raiſe</l>
+               <l>Her higheſt Noses to your exalted Praiſe<g ref="char:punc">▪</g>
+               </l>
+               <l>A Theme e'en your own Crickets muſt inſpire,</l>
+               <l>And tune that chirping Salamander Quire.</l>
+               <l>You, wheſe miraculous Renown <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'examine,</l>
+               <l>Are Wonders that ev'n live by Fire and Famine.</l>
+               <l>Dearth makes your Feaſt, whilſt fat and fair you ſhine</l>
+            </lg>
+            <lg>
+               <l>Ev'n in the Reign of <hi>Pharohs</hi> leaneſt Kine.</l>
+               <l>But is't ſo ſtrange to ſee you ſo well thriven?</l>
+               <l>When water'd by that precious Dew of Heaven,</l>
+               <l>No leſs than the poor Orphans ſhowring Tear,</l>
+               <l>That falling Drop that plumps you up ſo fair!</l>
+               <l>Nor do you only claim that boaſted Wealth,</l>
+               <l>Your Purſes and your Conſtitutions Health.</l>
+               <l>Thoſe well-grown Squobs, your <hi>Morals</hi> and your <hi>Manners</hi>
+               </l>
+               <l>Your <hi>Conſciences</hi> are larger than your <hi>Panniers.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>T. Pinch-gut,</hi> in <hi>Thieving-Lane.</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
